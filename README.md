@@ -31,7 +31,6 @@ O projeto está organizado da seguinte forma para garantir a clareza e a reprodu
 ├── results/                # Diretório onde os resultados (CSV) são salvos
 ├── images/                 # Gráficos e figuras gerados para a dissertação
 ├── main.py                 # Ponto de entrada principal para executar os experimentos
-├── run_specific.py         # Script para executar um único modelo em uma única instância
 ├── data.py                 # Módulo para leitura e processamento dos arquivos de instância
 ├── gen_*.py                # Scripts para gerar tabelas LaTeX e figuras de análise
 └── README.md               # Este arquivo
